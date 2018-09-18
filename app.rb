@@ -41,6 +41,6 @@ class App < Sinatra::Base
     end
     output.to_s
   end
-    
+
 
   end
